@@ -1,0 +1,12 @@
+.
+├── content.txt
+├── EXERCITANDO
+│   └── exercitando_aula01.py
+├── INSTALADORES
+│   ├── python-3.5.4_86x.exe
+│   └── python-3.5.4-amd64.exe
+└── SLIDE
+    ├── Introdução à Línguagem de Programação Python.pdf
+    └── Introdução à Línguagem de Programação Python.pptx
+
+3 directories, 6 files
